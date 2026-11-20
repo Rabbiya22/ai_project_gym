@@ -1,0 +1,254 @@
+[
+  {
+    "profile_id": "U01",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U02",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U03",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U04",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U05",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U06",
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U07",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U08",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U09",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U10",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U11",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U12",
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U13",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U14",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U15",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U16",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U17",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U18",
+    "goal": "muscle_gain",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U19",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U20",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U21",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U22",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U23",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U24",
+    "goal": "muscle_gain",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U25",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U26",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U27",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U28",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U29",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U30",
+    "goal": "general_fitness",
+    "level": "beginner",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U31",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U32",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "bodyweight",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U33",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U34",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "bands_other",
+    "schedule": "5_days_per_week"
+  },
+  {
+    "profile_id": "U35",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "3_days_per_week"
+  },
+  {
+    "profile_id": "U36",
+    "goal": "general_fitness",
+    "level": "intermediate",
+    "equipment": "dumbbell",
+    "schedule": "5_days_per_week"
+  }
+]

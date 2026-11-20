@@ -1,0 +1,121 @@
+id,name,primary_muscle,secondary_muscles,equipment,level,is_compound,movement_type,minutes_per_set,goal_tags,rep_range,rep_unit
+Pushups,Pushups,chest,shoulders;triceps,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Incline_Push-Up,Incline Push-Up,chest,shoulders;triceps,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Decline_Push-Up,Decline Push-Up,chest,shoulders;triceps,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Push-Ups_With_Feet_Elevated,Push-Ups With Feet Elevated,chest,shoulders;triceps,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Bench_Press_-_Medium_Grip,Barbell Bench Press - Medium Grip,chest,shoulders;triceps,barbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Incline_Bench_Press_-_Medium_Grip,Barbell Incline Bench Press - Medium Grip,chest,shoulders;triceps,barbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Bench_Press,Dumbbell Bench Press,chest,shoulders;triceps,dumbbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Incline_Dumbbell_Press,Incline Dumbbell Press,chest,shoulders;triceps,dumbbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Flyes,Dumbbell Flyes,chest,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Cable_Crossover,Cable Crossover,chest,shoulders,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Cable_Chest_Press,Cable Chest Press,chest,shoulders;triceps,machine_cable,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Machine_Bench_Press,Machine Bench Press,chest,shoulders;triceps,machine_cable,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Butterfly,Butterfly,chest,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Bench_Press_-_With_Bands,Bench Press - With Bands,chest,shoulders;triceps,bands_other,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Pullups,Pullups,back,biceps,bodyweight,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Chin-Up,Chin-Up,back,biceps,bodyweight,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Wide-Grip_Lat_Pulldown,Wide-Grip Lat Pulldown,back,biceps;shoulders,machine_cable,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Straight-Arm_Pulldown,Straight-Arm Pulldown,back,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Band_Assisted_Pull-Up,Band Assisted Pull-Up,back,core,bands_other,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Bent_Over_Barbell_Row,Bent Over Barbell Row,back,biceps;shoulders,barbell,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+One-Arm_Dumbbell_Row,One-Arm Dumbbell Row,back,biceps;shoulders,dumbbell,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Bent_Over_Two-Dumbbell_Row,Bent Over Two-Dumbbell Row,back,biceps;shoulders,dumbbell,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Incline_Row,Dumbbell Incline Row,back,biceps;shoulders,dumbbell,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Seated_Cable_Rows,Seated Cable Rows,back,biceps;shoulders,machine_cable,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Leverage_Iso_Row,Leverage Iso Row,back,biceps,machine_cable,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Inverted_Row,Inverted Row,back,,bodyweight,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Hyperextensions_Back_Extensions,Hyperextensions (Back Extensions),back,hamstrings_glutes,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Superman,Superman,back,hamstrings_glutes,bodyweight,beginner,True,isolation,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Deadlift,Barbell Deadlift,back,calves;hamstrings_glutes;quads;shoulders,barbell,intermediate,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Seated_Dumbbell_Press,Seated Dumbbell Press,shoulders,triceps,dumbbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Standing_Dumbbell_Press,Standing Dumbbell Press,shoulders,triceps,dumbbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Side_Lateral_Raise,Side Lateral Raise,shoulders,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Front_Dumbbell_Raise,Front Dumbbell Raise,shoulders,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Reverse_Flyes,Reverse Flyes,shoulders,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Arnold_Dumbbell_Press,Arnold Dumbbell Press,shoulders,triceps,dumbbell,intermediate,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Standing_Military_Press,Standing Military Press,shoulders,triceps,barbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Machine_Shoulder_Military_Press,Machine Shoulder (Military) Press,shoulders,triceps,machine_cable,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Face_Pull,Face Pull,shoulders,back,machine_cable,intermediate,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Reverse_Machine_Flyes,Reverse Machine Flyes,shoulders,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Shoulder_Press_-_With_Bands,Shoulder Press - With Bands,shoulders,triceps,bands_other,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Lateral_Raise_-_With_Bands,Lateral Raise - With Bands,shoulders,,bands_other,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Band_Pull_Apart,Band Pull Apart,shoulders,back,bands_other,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Upright_Barbell_Row,Upright Barbell Row,shoulders,,barbell,beginner,True,pull,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Shrug,Dumbbell Shrug,shoulders,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Barbell_Shrug,Barbell Shrug,shoulders,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Dumbbell_Bicep_Curl,Dumbbell Bicep Curl,biceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Hammer_Curls,Hammer Curls,biceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Concentration_Curls,Concentration Curls,biceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Incline_Dumbbell_Curl,Incline Dumbbell Curl,biceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Barbell_Curl,Barbell Curl,biceps,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+EZ-Bar_Curl,EZ-Bar Curl,biceps,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Preacher_Curl,Preacher Curl,biceps,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Standing_Biceps_Cable_Curl,Standing Biceps Cable Curl,biceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Machine_Bicep_Curl,Machine Bicep Curl,biceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Cable_Hammer_Curls_-_Rope_Attachment,Cable Hammer Curls - Rope Attachment,biceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Bench_Dips,Bench Dips,triceps,chest;shoulders,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dips_-_Triceps_Version,Dips - Triceps Version,triceps,chest;shoulders,bodyweight,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Close-Grip_Barbell_Bench_Press,Close-Grip Barbell Bench Press,triceps,chest;shoulders,barbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Close-Grip_Dumbbell_Press,Close-Grip Dumbbell Press,triceps,chest;shoulders,dumbbell,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Triceps_Pushdown,Triceps Pushdown,triceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Triceps_Pushdown_-_Rope_Attachment,Triceps Pushdown - Rope Attachment,triceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Cable_Rope_Overhead_Triceps_Extension,Cable Rope Overhead Triceps Extension,triceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Standing_Dumbbell_Triceps_Extension,Standing Dumbbell Triceps Extension,triceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Tricep_Dumbbell_Kickback,Tricep Dumbbell Kickback,triceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Dumbbell_Tricep_Extension_-Pronated_Grip,Dumbbell Tricep Extension -Pronated Grip,triceps,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+EZ-Bar_Skullcrusher,EZ-Bar Skullcrusher,triceps,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Machine_Triceps_Extension,Machine Triceps Extension,triceps,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Dip_Machine,Dip Machine,triceps,chest;shoulders,machine_cable,beginner,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Band_Skull_Crusher,Band Skull Crusher,triceps,,bands_other,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Push-Ups_-_Close_Triceps_Position,Push-Ups - Close Triceps Position,triceps,chest;shoulders,bodyweight,intermediate,True,push,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Bodyweight_Squat,Bodyweight Squat,quads,hamstrings_glutes,bodyweight,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Bodyweight_Walking_Lunge,Bodyweight Walking Lunge,quads,calves;hamstrings_glutes,bodyweight,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Squat,Barbell Squat,quads,calves;hamstrings_glutes;back,barbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Walking_Lunge,Barbell Walking Lunge,quads,calves;hamstrings_glutes,barbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Squat,Dumbbell Squat,quads,calves;hamstrings_glutes;back,dumbbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Lunges,Dumbbell Lunges,quads,calves;hamstrings_glutes,dumbbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Rear_Lunge,Dumbbell Rear Lunge,quads,calves;hamstrings_glutes,dumbbell,intermediate,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dumbbell_Step_Ups,Dumbbell Step Ups,quads,calves;hamstrings_glutes,dumbbell,intermediate,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Split_Squat_with_Dumbbells,Split Squat with Dumbbells,quads,hamstrings_glutes,dumbbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Plie_Dumbbell_Squat,Plie Dumbbell Squat,quads,core;calves;hamstrings_glutes,dumbbell,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Leg_Press,Leg Press,quads,calves;hamstrings_glutes,machine_cable,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Hack_Squat,Hack Squat,quads,calves;hamstrings_glutes,machine_cable,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Leg_Extensions,Leg Extensions,quads,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Squats_-_With_Bands,Squats - With Bands,quads,calves;hamstrings_glutes;back,bands_other,beginner,True,squat,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Romanian_Deadlift,Romanian Deadlift,hamstrings_glutes,calves;back,barbell,intermediate,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Stiff-Legged_Dumbbell_Deadlift,Stiff-Legged Dumbbell Deadlift,hamstrings_glutes,back,dumbbell,beginner,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Lying_Leg_Curls,Lying Leg Curls,hamstrings_glutes,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Seated_Leg_Curl,Seated Leg Curl,hamstrings_glutes,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Butt_Lift_Bridge,Butt Lift (Bridge),hamstrings_glutes,,bodyweight,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Single_Leg_Glute_Bridge,Single Leg Glute Bridge,hamstrings_glutes,,bodyweight,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Glute_Kickback,Glute Kickback,hamstrings_glutes,,bodyweight,beginner,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Barbell_Hip_Thrust,Barbell Hip Thrust,hamstrings_glutes,calves,barbell,intermediate,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Hip_Extension_with_Bands,Hip Extension with Bands,hamstrings_glutes,,bands_other,beginner,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Hip_Lift_with_Band,Hip Lift with Band,hamstrings_glutes,calves,bands_other,beginner,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Pull_Through,Pull Through,hamstrings_glutes,back,machine_cable,beginner,True,hinge,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Leg_Lift,Leg Lift,hamstrings_glutes,,bodyweight,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Seated_Band_Hamstring_Curl,Seated Band Hamstring Curl,hamstrings_glutes,,bands_other,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+One-Legged_Cable_Kickback,One-Legged Cable Kickback,hamstrings_glutes,,machine_cable,intermediate,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Standing_Calf_Raises,Standing Calf Raises,calves,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Seated_Calf_Raise,Seated Calf Raise,calves,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Calf_Press,Calf Press,calves,,machine_cable,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Standing_Barbell_Calf_Raise,Standing Barbell Calf Raise,calves,,barbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Standing_Dumbbell_Calf_Raise,Standing Dumbbell Calf Raise,calves,,dumbbell,intermediate,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Dumbbell_Seated_One-Leg_Calf_Raise,Dumbbell Seated One-Leg Calf Raise,calves,,dumbbell,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Calf_Raises_-_With_Bands,Calf Raises - With Bands,calves,,bands_other,beginner,False,isolation,2.0,muscle_gain;general_fitness,10;15,reps
+Crunches,Crunches,core,,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Plank,Plank,core,,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,20;45,seconds
+Sit-Up,Sit-Up,core,,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Russian_Twist,Russian Twist,core,back,bodyweight,intermediate,True,core,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Reverse_Crunch,Reverse Crunch,core,,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Cross-Body_Crunch,Cross-Body Crunch,core,,bodyweight,beginner,True,core,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Dead_Bug,Dead Bug,core,,bodyweight,beginner,True,core,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Bent-Knee_Hip_Raise,Bent-Knee Hip Raise,core,,bodyweight,beginner,True,core,3.0,strength;muscle_gain;general_fitness,6;12,reps
+Flat_Bench_Lying_Leg_Raise,Flat Bench Lying Leg Raise,core,,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Side_Bridge,Side Bridge,core,shoulders,bodyweight,beginner,False,core,2.0,muscle_gain;general_fitness,20;45,seconds
+Cable_Crunch,Cable Crunch,core,,machine_cable,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Ab_Crunch_Machine,Ab Crunch Machine,core,,machine_cable,intermediate,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Dumbbell_Side_Bend,Dumbbell Side Bend,core,,dumbbell,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Pallof_Press,Pallof Press,core,chest;shoulders;triceps,machine_cable,beginner,False,core,2.0,muscle_gain;general_fitness,10;15,reps
+Air_Bike,Air Bike,core,,bodyweight,beginner,True,core,3.0,strength;muscle_gain;general_fitness,6;12,reps

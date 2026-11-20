@@ -1,0 +1,16 @@
+1. Your six rules
+Rule	What the code must check
+R1 – Equipment	User has the required equipment.
+R2 – Level	Exercise difficulty is not above the user's level.
+R3 – Time	Each workout fits the available session time.
+R4 – Recovery	Same major muscle isn't trained on consecutive days.
+R5 – No repeats	Same exercise isn't repeated in one session.
+R6 – Weekly volume	Weekly sets per muscle stay within minimum and maximum limits.
+Your planner assigns all 9 muscle groups to Monday.
+
+Each exercise takes at least 6 minutes (3 sets × 2 minutes). Therefore:
+\[
+9 \times 6 = 54 \text{ minutes}
+\]
+
+But your project has a 45-minute session limit.

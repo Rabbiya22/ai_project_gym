@@ -1,0 +1,2629 @@
+[
+  {
+    "id": "Pushups",
+    "name": "Pushups",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Incline_Push-Up",
+    "name": "Incline Push-Up",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Decline_Push-Up",
+    "name": "Decline Push-Up",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Push-Ups_With_Feet_Elevated",
+    "name": "Push-Ups With Feet Elevated",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Bench_Press_-_Medium_Grip",
+    "name": "Barbell Bench Press - Medium Grip",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+    "name": "Barbell Incline Bench Press - Medium Grip",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Bench_Press",
+    "name": "Dumbbell Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Incline_Dumbbell_Press",
+    "name": "Incline Dumbbell Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Flyes",
+    "name": "Dumbbell Flyes",
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Cable_Crossover",
+    "name": "Cable Crossover",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Cable_Chest_Press",
+    "name": "Cable Chest Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Machine_Bench_Press",
+    "name": "Machine Bench Press",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Butterfly",
+    "name": "Butterfly",
+    "primary_muscle": "chest",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bench_Press_-_With_Bands",
+    "name": "Bench Press - With Bands",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Pullups",
+    "name": "Pullups",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Chin-Up",
+    "name": "Chin-Up",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Wide-Grip_Lat_Pulldown",
+    "name": "Wide-Grip Lat Pulldown",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Straight-Arm_Pulldown",
+    "name": "Straight-Arm Pulldown",
+    "primary_muscle": "back",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Band_Assisted_Pull-Up",
+    "name": "Band Assisted Pull-Up",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "core"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bent_Over_Barbell_Row",
+    "name": "Bent Over Barbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "One-Arm_Dumbbell_Row",
+    "name": "One-Arm Dumbbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bent_Over_Two-Dumbbell_Row",
+    "name": "Bent Over Two-Dumbbell Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Incline_Row",
+    "name": "Dumbbell Incline Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Seated_Cable_Rows",
+    "name": "Seated Cable Rows",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Leverage_Iso_Row",
+    "name": "Leverage Iso Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Inverted_Row",
+    "name": "Inverted Row",
+    "primary_muscle": "back",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Hyperextensions_Back_Extensions",
+    "name": "Hyperextensions (Back Extensions)",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "hamstrings_glutes"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Superman",
+    "name": "Superman",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "hamstrings_glutes"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "isolation",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Deadlift",
+    "name": "Barbell Deadlift",
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes",
+      "quads",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Seated_Dumbbell_Press",
+    "name": "Seated Dumbbell Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Dumbbell_Press",
+    "name": "Standing Dumbbell Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Side_Lateral_Raise",
+    "name": "Side Lateral Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Front_Dumbbell_Raise",
+    "name": "Front Dumbbell Raise",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Reverse_Flyes",
+    "name": "Reverse Flyes",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Arnold_Dumbbell_Press",
+    "name": "Arnold Dumbbell Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Military_Press",
+    "name": "Standing Military Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Machine_Shoulder_Military_Press",
+    "name": "Machine Shoulder (Military) Press",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Face_Pull",
+    "name": "Face Pull",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "back"
+    ],
+    "equipment": "machine_cable",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Reverse_Machine_Flyes",
+    "name": "Reverse Machine Flyes",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Shoulder_Press_-_With_Bands",
+    "name": "Shoulder Press - With Bands",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Lateral_Raise_-_With_Bands",
+    "name": "Lateral Raise - With Bands",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Band_Pull_Apart",
+    "name": "Band Pull Apart",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "back"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Upright_Barbell_Row",
+    "name": "Upright Barbell Row",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "pull",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Shrug",
+    "name": "Dumbbell Shrug",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Shrug",
+    "name": "Barbell Shrug",
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Bicep_Curl",
+    "name": "Dumbbell Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Hammer_Curls",
+    "name": "Hammer Curls",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Concentration_Curls",
+    "name": "Concentration Curls",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Incline_Dumbbell_Curl",
+    "name": "Incline Dumbbell Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Curl",
+    "name": "Barbell Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "EZ-Bar_Curl",
+    "name": "EZ-Bar Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Preacher_Curl",
+    "name": "Preacher Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Biceps_Cable_Curl",
+    "name": "Standing Biceps Cable Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Machine_Bicep_Curl",
+    "name": "Machine Bicep Curl",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Cable_Hammer_Curls_-_Rope_Attachment",
+    "name": "Cable Hammer Curls - Rope Attachment",
+    "primary_muscle": "biceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bench_Dips",
+    "name": "Bench Dips",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dips_-_Triceps_Version",
+    "name": "Dips - Triceps Version",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Close-Grip_Barbell_Bench_Press",
+    "name": "Close-Grip Barbell Bench Press",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Close-Grip_Dumbbell_Press",
+    "name": "Close-Grip Dumbbell Press",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Triceps_Pushdown",
+    "name": "Triceps Pushdown",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Triceps_Pushdown_-_Rope_Attachment",
+    "name": "Triceps Pushdown - Rope Attachment",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Cable_Rope_Overhead_Triceps_Extension",
+    "name": "Cable Rope Overhead Triceps Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Dumbbell_Triceps_Extension",
+    "name": "Standing Dumbbell Triceps Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Tricep_Dumbbell_Kickback",
+    "name": "Tricep Dumbbell Kickback",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+    "name": "Dumbbell Tricep Extension -Pronated Grip",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "EZ-Bar_Skullcrusher",
+    "name": "EZ-Bar Skullcrusher",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Machine_Triceps_Extension",
+    "name": "Machine Triceps Extension",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dip_Machine",
+    "name": "Dip Machine",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Band_Skull_Crusher",
+    "name": "Band Skull Crusher",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Push-Ups_-_Close_Triceps_Position",
+    "name": "Push-Ups - Close Triceps Position",
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "push",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bodyweight_Squat",
+    "name": "Bodyweight Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "hamstrings_glutes"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bodyweight_Walking_Lunge",
+    "name": "Bodyweight Walking Lunge",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Squat",
+    "name": "Barbell Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes",
+      "back"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Walking_Lunge",
+    "name": "Barbell Walking Lunge",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Squat",
+    "name": "Dumbbell Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes",
+      "back"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Lunges",
+    "name": "Dumbbell Lunges",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Rear_Lunge",
+    "name": "Dumbbell Rear Lunge",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "dumbbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Step_Ups",
+    "name": "Dumbbell Step Ups",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "dumbbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Split_Squat_with_Dumbbells",
+    "name": "Split Squat with Dumbbells",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "hamstrings_glutes"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Plie_Dumbbell_Squat",
+    "name": "Plie Dumbbell Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "core",
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Leg_Press",
+    "name": "Leg Press",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Hack_Squat",
+    "name": "Hack Squat",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Leg_Extensions",
+    "name": "Leg Extensions",
+    "primary_muscle": "quads",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Squats_-_With_Bands",
+    "name": "Squats - With Bands",
+    "primary_muscle": "quads",
+    "secondary_muscles": [
+      "calves",
+      "hamstrings_glutes",
+      "back"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "squat",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Romanian_Deadlift",
+    "name": "Romanian Deadlift",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [
+      "calves",
+      "back"
+    ],
+    "equipment": "barbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Stiff-Legged_Dumbbell_Deadlift",
+    "name": "Stiff-Legged Dumbbell Deadlift",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [
+      "back"
+    ],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Lying_Leg_Curls",
+    "name": "Lying Leg Curls",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Seated_Leg_Curl",
+    "name": "Seated Leg Curl",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Butt_Lift_Bridge",
+    "name": "Butt Lift (Bridge)",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Single_Leg_Glute_Bridge",
+    "name": "Single Leg Glute Bridge",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Glute_Kickback",
+    "name": "Glute Kickback",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Barbell_Hip_Thrust",
+    "name": "Barbell Hip Thrust",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [
+      "calves"
+    ],
+    "equipment": "barbell",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Hip_Extension_with_Bands",
+    "name": "Hip Extension with Bands",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Hip_Lift_with_Band",
+    "name": "Hip Lift with Band",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [
+      "calves"
+    ],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Pull_Through",
+    "name": "Pull Through",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [
+      "back"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "hinge",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Leg_Lift",
+    "name": "Leg Lift",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Seated_Band_Hamstring_Curl",
+    "name": "Seated Band Hamstring Curl",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "One-Legged_Cable_Kickback",
+    "name": "One-Legged Cable Kickback",
+    "primary_muscle": "hamstrings_glutes",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "intermediate",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Calf_Raises",
+    "name": "Standing Calf Raises",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Seated_Calf_Raise",
+    "name": "Seated Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Calf_Press",
+    "name": "Calf Press",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Barbell_Calf_Raise",
+    "name": "Standing Barbell Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "barbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Standing_Dumbbell_Calf_Raise",
+    "name": "Standing Dumbbell Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "intermediate",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+    "name": "Dumbbell Seated One-Leg Calf Raise",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Calf_Raises_-_With_Bands",
+    "name": "Calf Raises - With Bands",
+    "primary_muscle": "calves",
+    "secondary_muscles": [],
+    "equipment": "bands_other",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "isolation",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Crunches",
+    "name": "Crunches",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Plank",
+    "name": "Plank",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      20,
+      45
+    ],
+    "rep_unit": "seconds"
+  },
+  {
+    "id": "Sit-Up",
+    "name": "Sit-Up",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Russian_Twist",
+    "name": "Russian Twist",
+    "primary_muscle": "core",
+    "secondary_muscles": [
+      "back"
+    ],
+    "equipment": "bodyweight",
+    "level": "intermediate",
+    "is_compound": true,
+    "movement_type": "core",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Reverse_Crunch",
+    "name": "Reverse Crunch",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Cross-Body_Crunch",
+    "name": "Cross-Body Crunch",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "core",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dead_Bug",
+    "name": "Dead Bug",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "core",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Bent-Knee_Hip_Raise",
+    "name": "Bent-Knee Hip Raise",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "core",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Flat_Bench_Lying_Leg_Raise",
+    "name": "Flat Bench Lying Leg Raise",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Side_Bridge",
+    "name": "Side Bridge",
+    "primary_muscle": "core",
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      20,
+      45
+    ],
+    "rep_unit": "seconds"
+  },
+  {
+    "id": "Cable_Crunch",
+    "name": "Cable Crunch",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Ab_Crunch_Machine",
+    "name": "Ab Crunch Machine",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "machine_cable",
+    "level": "intermediate",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Dumbbell_Side_Bend",
+    "name": "Dumbbell Side Bend",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "dumbbell",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Pallof_Press",
+    "name": "Pallof Press",
+    "primary_muscle": "core",
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "machine_cable",
+    "level": "beginner",
+    "is_compound": false,
+    "movement_type": "core",
+    "minutes_per_set": 2.0,
+    "goal_tags": [
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      10,
+      15
+    ],
+    "rep_unit": "reps"
+  },
+  {
+    "id": "Air_Bike",
+    "name": "Air Bike",
+    "primary_muscle": "core",
+    "secondary_muscles": [],
+    "equipment": "bodyweight",
+    "level": "beginner",
+    "is_compound": true,
+    "movement_type": "core",
+    "minutes_per_set": 3.0,
+    "goal_tags": [
+      "strength",
+      "muscle_gain",
+      "general_fitness"
+    ],
+    "rep_range": [
+      6,
+      12
+    ],
+    "rep_unit": "reps"
+  }
+]
